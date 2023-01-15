@@ -1,0 +1,7 @@
+com\order\webdemo\productservice\repository\ProductRepository.class
+com\order\webdemo\productservice\ProductServiceApplication.class
+com\order\webdemo\productservice\utility\ProductMapper.class
+com\order\webdemo\productservice\utility\EntityDtoConverter.class
+com\order\webdemo\productservice\entity\Product.class
+com\order\webdemo\productservice\utility\ProductMapperImpl.class
+com\order\webdemo\productservice\dto\ProductDto.class
